@@ -1,4 +1,6 @@
 # HUMAN RESOURCE.CSV
+![Screenshot (1)](https://github.com/FAITHKAMANDE/Human-Resource.csv/assets/140153113/a9d5f296-ac2d-4ef9-ad5f-091f800add91)
+
 ## *DATA USED*
 ### Data - HR Data with over 20000 rows from the year 2000 to 2020.
 ### Data Cleaning & Analysis - MySQL Workbench
